@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\GitHub_Csharp\sudoku_final\sudoku_final\bin\Debug\sudoku_final.exe.config
+C:\Users\Hp\Desktop\GitHub_Csharp\sudoku_final\sudoku_final\bin\Debug\sudoku_final.exe
+C:\Users\Hp\Desktop\GitHub_Csharp\sudoku_final\sudoku_final\bin\Debug\sudoku_final.pdb
+C:\Users\Hp\Desktop\GitHub_Csharp\sudoku_final\sudoku_final\obj\Debug\sudoku_final.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\GitHub_Csharp\sudoku_final\sudoku_final\obj\Debug\sudoku_final.Form1.resources
+C:\Users\Hp\Desktop\GitHub_Csharp\sudoku_final\sudoku_final\obj\Debug\sudoku_final.Properties.Resources.resources
+C:\Users\Hp\Desktop\GitHub_Csharp\sudoku_final\sudoku_final\obj\Debug\sudoku_final.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\GitHub_Csharp\sudoku_final\sudoku_final\obj\Debug\sudoku_final.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\GitHub_Csharp\sudoku_final\sudoku_final\obj\Debug\sudoku_final.exe
+C:\Users\Hp\Desktop\GitHub_Csharp\sudoku_final\sudoku_final\obj\Debug\sudoku_final.pdb
+C:\Users\Hp\Desktop\GitHub_Csharp\sudoku_final\sudoku_final\obj\Debug\sudoku_final.exe.config

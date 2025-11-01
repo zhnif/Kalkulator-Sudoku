@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC4DA5F-54DB-4D98-AC57-818DA60B4FAC}|sudoku_final\\sudoku_final.csproj|c:\\users\\hp\\desktop\\github_csharp\\sudoku_final\\sudoku_final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC4DA5F-54DB-4D98-AC57-818DA60B4FAC}|sudoku_final\\sudoku_final.csproj|solutionrelative:sudoku_final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC4DA5F-54DB-4D98-AC57-818DA60B4FAC}|sudoku_final\\sudoku_final.csproj|C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\sudoku_final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AC4DA5F-54DB-4D98-AC57-818DA60B4FAC}|sudoku_final\\sudoku_final.csproj|solutionrelative:sudoku_final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC4DA5F-54DB-4D98-AC57-818DA60B4FAC}|sudoku_final\\sudoku_final.csproj|C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\sudoku_final\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC4DA5F-54DB-4D98-AC57-818DA60B4FAC}|sudoku_final\\sudoku_final.csproj|solutionrelative:sudoku_final\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC4DA5F-54DB-4D98-AC57-818DA60B4FAC}|sudoku_final\\sudoku_final.csproj|C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\sudoku_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC4DA5F-54DB-4D98-AC57-818DA60B4FAC}|sudoku_final\\sudoku_final.csproj|solutionrelative:sudoku_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\sudoku_final\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "sudoku_final\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\sudoku_final\\Form1.Designer.cs",
+              "RelativeToolTip": "sudoku_final\\Form1.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:53:27.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\sudoku_final\\Form1.cs",
+              "RelativeDocumentMoniker": "sudoku_final\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\sudoku_final\\Form1.cs",
+              "RelativeToolTip": "sudoku_final\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:52:06.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\sudoku_final\\Program.cs",
+              "RelativeDocumentMoniker": "sudoku_final\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\sudoku_final\\Program.cs",
+              "RelativeToolTip": "sudoku_final\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:57:15.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\sudoku_final\\Form1.cs",
+              "RelativeDocumentMoniker": "sudoku_final\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GitHub_Csharp\\sudoku_final\\sudoku_final\\Form1.cs [Design]",
+              "RelativeToolTip": "sudoku_final\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T18:51:03.361Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
